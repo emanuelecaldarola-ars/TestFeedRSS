@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Stato Tapparelle</title>
+    <description>Monitoraggio in tempo reale dello stato delle tapparelle con barre di progresso</description>
+    <link>https://iltuosito.it</link>
+    <item>
+      <title>Salotto</title>
+      <description>&lt;p&gt;Stato: Aperta al 75%<br>&lt;progress value="75" max="100"&gt;&lt;bar&gt;&lt;/progress&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Jan 2023 19:20:30 +0100</pubDate>
+    </item>
+    <item>
+      <title>Cucina</title>
+      <description>&lt;p&gt;Stato: Chiusa al 20%<br>&lt;progress value="20" max="100"&gt;&lt;bar&gt;&lt;/progress&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Jan 2023 19:20:30 +0100</pubDate>
+    </item>
+    <item>
+      <title>Cameretta</title>
+      <description>&lt;p&gt;Stato: Completamente aperta<br>&lt;progress value="100" max="100"&gt;&lt;bar&gt;&lt;/progress&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Jan 2010 19:20:30 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
