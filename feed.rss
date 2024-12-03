@@ -4,8 +4,10 @@
     <title>Server Status</title>
     <description>Monitoraggio in tempo reale dello stato del server</description>
     <item>
-      <title>Tapparelle</title>
-      <description>[█████░░░░░]50% Cucina</description>
+      <title>Stato Apertura</title>
+      <description>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Cucina
+        <br>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Sala
+      </description>
       <pubDate>Sun, 15 Jan 2023 19:20:33 +0100</pubDate>
     </item>
   </channel>
