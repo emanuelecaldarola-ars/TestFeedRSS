@@ -2,15 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>Server Status</title>
+    <link>https://www.brevo.com/blog/</link>
     <description>Monitoraggio in tempo reale dello stato del server</description>
+    
     <item>
       <title>Stato Apertura</title>
+      <link>https://www.brevo.com/blog/email-bounce-rate</link>
       <description>[█████░░░░░] 50% Room1
         <br>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Room2
         <br>| █ █ █ █ █ ░ ░ ░ ░ ░ | 50% Room3
         <br>|█████░░░░░| 50% Room4
       </description>
-      <pubDate>Sun, 01 Dec 2024 19:20:35 +0100</pubDate>
+      <publication_date>01.12.2024</publication_date>
     </item>
+
   </channel>
 </rss>
