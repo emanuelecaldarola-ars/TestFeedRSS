@@ -5,7 +5,7 @@
     <description>Monitoraggio in tempo reale dello stato del server</description>
     <item>
       <title>Stato Apertura</title>
-      <description>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Cucina
+      <description>[█████░░░░░] 50% Cucina
         <br>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Sala
       </description>
       <pubDate>Sun, 15 Jan 2023 19:20:35 +0100</pubDate>
