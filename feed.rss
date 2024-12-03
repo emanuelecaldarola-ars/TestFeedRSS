@@ -5,9 +5,10 @@
     <description>Monitoraggio in tempo reale dello stato del server</description>
     <item>
       <title>Stato Apertura</title>
-      <description>[█████░░░░░] 50% Cucina
-        <br>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Sala
-        <br>| █ █ █ █ █ ░ ░ ░ ░ ░ | 50% Sala2
+      <description>[█████░░░░░] 50% Room1
+        <br>[ █ █ █ █ █ ░ ░ ░ ░ ░ ] 50% Room2
+        <br>| █ █ █ █ █ ░ ░ ░ ░ ░ | 50% Room3
+        <br>|█████░░░░░| 50% Room4
       </description>
       <pubDate>Sun, 01 Dec 2024 19:20:35 +0100</pubDate>
     </item>
